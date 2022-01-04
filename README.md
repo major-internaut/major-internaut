@@ -9,8 +9,8 @@ ________________________________________________________________________________
 **[*=] en-us**
 
 Greetings, hello, hi, etc. My name is Eduardo Giovannetti, known online as @major-internaut.
-I'm an amateur **HTML, JavaScript and CSS** programmer. Nothing too serious yet, although I want to make it my future career.
-As of right now, I'm finishing highschool, so finding a job isn't my top priority at the moment.
+I'm an amateur **HTML, JavaScript and CSS** programmer. Nothing too serious yet, although I do want to make it my future career.
+As of right now, I'm finishing highschool, so finding a job isn't my top priority.
 I speak English and Portuguese fluently.
 _______________________________________________________________________________________________________
 

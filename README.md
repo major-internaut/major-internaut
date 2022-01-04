@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/major-internaut/major-internaut/main/custom_profile.svg"></img>
 **[<@>] pt-br**
 
 Saudações, olá, oi, etc. Meu nome é Eduardo Giovannetti, conhecido online como @major-internaut.

@@ -4,13 +4,13 @@
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        .tags {
+        div {
           font-family:'Lato'
         }
       </style>
 
       <div> Saudações, olá, oi, etc. Meu nome é Eduardo Giovannetti, conhecido online como @major-internaut.
-Eu sou um programador amador de **HTML, JavaScript e CSS.** Nada muito sério ainda, embora eu queira fazer disso minha futura carreira.
+Eu sou um programador amador de HTML, JavaScript e CSS. Nada muito sério ainda, embora eu queira fazer disso minha futura carreira.
 No momento, estou terminando o Ensino Médio, então achar um emprego não é minha maior prioridade.
 Falo inglês e português fluentemente. </div>
     

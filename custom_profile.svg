@@ -1,14 +1,51 @@
+
 <svg fill="none" viewBox="0 0 400 120" width="400" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">      
+    <div xmlns="http://www.w3.org/1999/xhtml">
 
-    <style>
-        div {
-          font-family:'Lato Black';
+      <style>
+        .tags {
+          display: flex;
+          flex-wrap: wrap;
+          height: 100%;
+          width: 100%;
+          gap: 10px;
+        }
+        .tag {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          gap: 5px;
+          padding: 5px 15px;
+          border-radius: 10px;
+          font-weight: 500;
+          font-size: 0.85rem;
+          width: fit-content;
+          white-space: nowrap;
+          font-family:sans-serif;
+          background-color: #e3ffff;
+          color: #0ca4a5;
+          margin: 0.125em;
         }
       </style>
 
-<div> Saudações, olá, oi, etc. Meu nome é Eduardo Giovannetti, conhecido online como @major-internaut.
-Eu sou um programador amador de **HTML, JavaScript e CSS.** Nada muito sério ainda, embora eu queira fazer disso minha futura carreira.
-No momento, estou terminando o Ensino Médio, então achar um emprego não é minha maior prioridade.
-Falo inglês e português fluentemente. </div>
+      <div class="tags">
+        <div class="tag">Angular</div>
+        <div class="tag">Vue(X)</div>
+        <div class="tag">Svelte</div>
+        <div class="tag">TypeScript</div>
+      </div>
+      <div class="tags">
+        <div class="tag">(S)CSS</div>
+        <div class="tag">Building UIs</div>
+        <div class="tag">Web Components</div>
+      </div>
+      <div class="tags">
+        <div class="tag">Ionic</div>
+        <div class="tag">Electron</div>
+        <div class="tag">.NET</div>
+      </div>
+
+    </div>
+  </foreignObject>
+</svg>
